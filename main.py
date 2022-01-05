@@ -594,7 +594,7 @@ for item in all_images:
     com2 = Image.alpha_composite(com1, clothes)
     com3 = Image.alpha_composite(com2, earring)
     if item["Hat"] == "Black Durag" or item["Hat"] == "Rainbow Durag":
-        if item["Eyes"] == "Night Vision Goggles" or item["Eyes"] == "Scar":
+        if item["Eyes"] == "Night Vision Goggles" or item["Eyes"] == "Scar" or item["Eyes"] == "Third Eye" or item["Eyes"] == "Cyclops":
             com4 = Image.alpha_composite(com3, eyes)
             com5 = Image.alpha_composite(com4, hat)
         else:
