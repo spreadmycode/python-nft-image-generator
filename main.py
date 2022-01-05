@@ -461,6 +461,9 @@ def create_new_image():
     if new_image["Eyes"] == "Face Screen" and new_image["Hat"] != "None":
         return create_new_image()
 
+    if new_image["Eyes"] == "Face Screen" and (new_image["Mouth"] == "Wooden Pipe" or new_image["Mouth"] == "Bubblegum" or new_image["Mouth"] == "Cigarettes" or new_image["Mouth"] == "Vape"):
+        return create_new_image()
+
     if new_image["Eyes"] == "Night Vision Goggles" and new_image["Mouth"] == "Face Mask":
         return create_new_image()
 
