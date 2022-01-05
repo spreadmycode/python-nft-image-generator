@@ -631,7 +631,7 @@ for i in data:
     token = {
         "name": f'Gorilla #{token_id + 1}',
         "symbol": "Gorilla",
-        "description": "Genesis is a collection of 4444 unique, randomly generated Gorillas roaming on the Solana blockchain.",
+        "description": "Gorilla Galaxy: Genesis is a collection of 4444 unique, randomly generated Gorillas roaming on the Solana blockchain.",
         "seller_fee_basis_points": 500,
         "image": f'{token_id}.png',
         "external_url": "https://gorillagalaxy.io",
@@ -650,8 +650,12 @@ for i in data:
             "category": "image",
             "creators": [
                 {
-                    "share": 100,
+                    "share": 50,
                     "address": "6rFbybUundKHWwbieyJLwUjAudLEsgJ4ATs22WXmV8i1"
+                },
+                {
+                    "share": 50,
+                    "address": "3ipGUMEyrVzbRaq5wQDzX3mtTJptQN21Kbc3aYfxphq8"
                 }
             ]
         }
