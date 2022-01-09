@@ -436,7 +436,7 @@ mouth_gold_grillz_files = {
 }
 
 ## Generate Traits
-TOTAL_IMAGES = 4444 # Number of random unique images we want to generate
+TOTAL_IMAGES = 2222 # Number of random unique images we want to generate
 
 all_images = [] 
 
