@@ -435,9 +435,6 @@ mouth_gold_grillz_files = {
     "Grey": "Gold_Grillz_Tan_Brown_Purple_Grey.png"
 }
 
-## Generate Traits
-TOTAL_IMAGES = 4444 # Number of random unique images we want to generate
-
 all_images = [] 
 
 METADATA_FILE_NAME = "./metadata/all-traits.json"; 
