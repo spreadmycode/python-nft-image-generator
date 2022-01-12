@@ -578,7 +578,7 @@ for i in data:
     token = {
         "name": f'Gorilla #{token_id + 1}',
         "symbol": "Gorilla",
-        "description": "Gorilla Galaxy: Genesis is a collection of 4444 unique, randomly generated Gorillas roaming on the Solana blockchain.",
+        "description": "Gorilla Galaxy: Genesis is a collection of 2222 unique, randomly generated Gorillas roaming on the Solana blockchain.",
         "seller_fee_basis_points": 500,
         "image": f'{token_id}.png',
         "external_url": "https://gorillagalaxy.io",
