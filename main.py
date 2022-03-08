@@ -117,8 +117,6 @@ for item in all_images:
     item["tokenId"] = i
     i = i + 1
 
-print(all_images)
-
 # Get Trait Counts
 background_color_count = {}
 for item in background_color:
@@ -141,11 +139,6 @@ for image in all_images:
     leaderpunk_count[image["LeaderPunk"]] += 1
     hat_count[image["Hat"]] += 1
     necklace_count[image["Necklace"]] += 1
-    
-print(background_color_count)
-print(leaderpunk_count)
-print(hat_count)
-print(necklace_count)
 
 #### Generate Metadata for all Traits 
 METADATA_FILE_NAME = './metadata/all-traits.json'; 
