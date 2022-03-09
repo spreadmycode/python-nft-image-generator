@@ -159,10 +159,10 @@ for art_image in ART_IMAGES:
             metadata = {
                 "name": f'Era Spheres Lands #{index + 1}',
                 "symbol": "ERA LANDS",
-                "description": "Solana Blockchain Game",
-                "seller_fee_basis_points": 500,
+                "description": "Era Spheres: The Land Collection of Era Spheres is comprised of 6000 NFT all with different rarities and in-game bonuses.",
+                "seller_fee_basis_points": 250,
                 "image": f'{index}.png',
-                "external_url": "https://nodeseeds.com/",
+                "external_url": "https://eraspheres.com/",
                 "attributes": [],
                 "collection": {
                     "name": "Era Spheres Lands",
