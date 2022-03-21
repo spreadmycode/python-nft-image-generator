@@ -19,18 +19,30 @@ TRAITS = [
             {
                 "trait_type": "Merchant Prices",
                 "value": "-3%"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
             }
         ],
         [
             {
                 "trait_type": "Defense",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
             }
         ],
         [
             {
                 "trait_type": "Dexterity",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Common"
             }
         ]
     ],
@@ -39,18 +51,30 @@ TRAITS = [
             {
                 "trait_type": "Magical Defense",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Uncommon"
             }
         ],
         [
             {
                 "trait_type": "Strength",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Uncommon"
             }
         ],
         [
             {
                 "trait_type": "Merchant Prices",
                 "value": "-5%"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Uncommon"
             }
         ]
     ],
@@ -63,6 +87,10 @@ TRAITS = [
             {
                 "trait_type": "Strength",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Rare"
             }
         ],
         [
@@ -73,12 +101,20 @@ TRAITS = [
             {
                 "trait_type": "Intelligence",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Rare"
             }
         ],
         [
             {
                 "trait_type": "Constitution",
                 "value": "+2"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Rare"
             }
         ]
     ],
@@ -87,18 +123,30 @@ TRAITS = [
             {
                 "trait_type": "Melee Damage Taken",
                 "value": "-5%"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Epic"
             }
         ],
         [
             {
                 "trait_type": "Magic Damage Taken",
                 "value": "-5%"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Epic"
             }
         ],
         [
             {
                 "trait_type": "Damage Taken",
                 "value": "-3%"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Epic"
             }
         ]
     ],
@@ -115,6 +163,10 @@ TRAITS = [
             {
                 "trait_type": "Constitution",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Legendary"
             }
         ],
         [
@@ -125,6 +177,10 @@ TRAITS = [
             {
                 "trait_type": "All Skills",
                 "value": "+1"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Legendary"
             }
         ],
         [
@@ -135,6 +191,10 @@ TRAITS = [
             {
                 "trait_type": "Constitution",
                 "value": "+2"
+            },
+            {
+                "trait_type": "Rarity",
+                "value": "Legendary"
             }
         ]
     ]
